@@ -2,6 +2,7 @@ Git is  a version control system
 Git is a free software.
 
 git管理的是修改而不是文件
+每次修改，如果不add到暂存区，那就不会加到commit中。
 
 ## git 命令
 
@@ -15,4 +16,6 @@ git管理的是修改而不是文件
 8. git log
 9. git reflog
 10.git status
+
+git tracks changes of files
 
